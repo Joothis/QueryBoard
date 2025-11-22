@@ -1,0 +1,16 @@
+{
+  "gitSyncId": "691e819e8f6f49085afa62a7_221ac461-72c6-4067-b31f-b14f3c1f99cc",
+  "id": "Ticketpage_bulkActions",
+  "unpublishedCollection": {
+    "name": "bulkActions",
+    "pageId": "Ticketpage",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "variables": [
+      {
+        "name": "allowedDomains",
+        "value": "[\"company.com\", \"support.io\"]"
+      }
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "gitSyncId": "691e819e8f6f49085afa62a7_be027e9a-6241-4f07-8579-a14117241ae0",
+  "id": "Authentication_JSObject1",
+  "unpublishedCollection": {
+    "name": "JSObject1",
+    "pageId": "Authentication",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "variables": [
+      {
+        "name": "iscurrentpage",
+        "value": "iscurrentpage"
+      }
+    ]
+  }
+}

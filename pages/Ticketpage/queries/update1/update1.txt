@@ -1,0 +1,5 @@
+{
+    "status": "{{Status_up.selectedOptionValue}}",
+    "priority": "{{Priority_up.selectedOptionValue}}",
+    "updated_at": "{{new Date().toLocaleString()}}"
+  }

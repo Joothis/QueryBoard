@@ -1,0 +1,20 @@
+{
+  "gitSyncId": "691e819e8f6f49085afa62a7_e8cdfe74-3a31-45bb-8fb5-171e81596b53",
+  "id": "Ticketpage_filter",
+  "unpublishedCollection": {
+    "name": "filter",
+    "pageId": "Ticketpage",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "variables": [
+      {
+        "name": "priorityOptions",
+        "value": "[{\n  label: \"High\",\n  value: \"high\"\n}, {\n  label: \"Medium\",\n  value: \"medium\"\n}, {\n  label: \"Low\",\n  value: \"low\"\n}]"
+      },
+      {
+        "name": "statusOptions",
+        "value": "[{\n  label: \"Open\",\n  value: \"open\"\n}, {\n  label: \"In Progress\",\n  value: \"in_progress\"\n}, {\n  label: \"Closed\",\n  value: \"closed\"\n}]"
+      }
+    ]
+  }
+}
